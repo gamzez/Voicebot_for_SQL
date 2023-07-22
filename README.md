@@ -1,7 +1,7 @@
 # Voice controlled ChatGPT via speech-to-text transcription
 Demo video:
 
-[![DEMO VIDEO](https://img.youtube.com/vi/6Y7nRQ_AsQw/0.jpg)](https://youtu.be/6Y7nRQ_AsQw)
+[![DEMO VIDEO](https://img.youtube.com/vi/RtHqt6pTdGw.jpg)](https://youtu.be/RtHqt6pTdGw)
 
 This is a voice-controlled SQL query generator powered by AI models from OpenAI.
 The script uses OpenAI's Whisper model to transcribe voice input into text. The transcribed text is then passed to ChatGPT via OpenAI API; GPT is asked to generate a SQL code for given query task. 
